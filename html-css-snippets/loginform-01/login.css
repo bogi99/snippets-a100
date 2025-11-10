@@ -1,0 +1,63 @@
+body {
+    background-image: url("DSC_0025_1920x1080.webp");
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#formbody {
+    background-color: transparent;
+    backdrop-filter: blur(20px);
+    align-self: center;
+    margin: auto;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    width: 50%;
+    padding: 1rem;
+    border-radius: 60px;
+}
+
+
+#formtitle {
+    font-size: large;
+    text-align: center;
+    color: chartreuse;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-color: black;
+    margin-bottom: 10px;
+}
+
+#inputblock {
+    display: flex;
+    text-align: left;
+    font-size: medium;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#label {
+    text-align: right;
+    font-size: larger;
+    color: burlywood;
+    min-width: 110px;
+}
+
+#inputfield {
+    border-radius: 5px;
+    background-color: #c48f67;
+    width: 100%;
+}
+
+#submitbutton {
+    border-radius: 5px;
+    font-size: larger;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50%;
+    text-align: center;
+    margin-bottom: 20px;
+    height: 50px;
+    margin-left: 25%;
+}

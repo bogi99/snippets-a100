@@ -20,6 +20,9 @@ A comprehensive collection of code snippets, experiments, and projects across mu
   - Login forms and authentication UI
   - Responsive design patterns
 
+### 🐳 ** generic dev container **
+- ** `generic_dev_container` ** - A generic container for php development. It has it's own README file so check that one out for more detail.
+
 --- 
 
 ## 📝 **Documentation**

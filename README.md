@@ -23,6 +23,10 @@ A comprehensive collection of code snippets, experiments, and projects across mu
 ### 🐳 ** generic dev container **
 - ** `generic_dev_container` ** - A generic container for php development. It has it's own README file so check that one out for more detail.
 
+### 💾 ** simple recursive backup util **
+- ** `dbackup` ** - A simple recursive backup utility , takes a source and a destination parameter , and copies everything from -src to -dst , recommended to use with cron or manually ...
+it compiles for Linux, windows and Mac 
+
 --- 
 
 ## 📝 **Documentation**
